@@ -70,17 +70,7 @@ start() {
             0) Exit`
         );
     }
-    // replacePrompt () {
-    //     return prompt (`
-    //     1) Replace Point Guard 
-    //     2) Replace Shooting Guard
-    //     3) Replace Small Forward
-    //     4) Replace Power Forward
-    //     5) Replace Center
-    //     6) Replace Coach
-    //     0) Exit`
-    //     )
-    // }
+
     replaceMenu () {
         return prompt (`
         1) Replace Point Guard 
